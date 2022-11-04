@@ -1,6 +1,0 @@
-ChromeDriver=C:\\Users\\KalyanChakravarthyCh\\OneDrive - Hallmark Health Care Solutions, Inc\\Desktop\\Selenium\\Drivers\\chromedriver_win32\\chromedriver.exe
-url=https://opensource-demo.orangehrmlive.com/
-username=username
-password=password
-loginButton=//button[@type='submit']
-user=//p[@class='oxd-userdropdown-name']

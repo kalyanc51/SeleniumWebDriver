@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<login_detail>
-<url>https://opensource-demo.orangehrmlive.com/</url>
-<username>username</username>
-<password>password</password>
-<loginButton>//button[@type='submit']</loginButton>
-<welcome>//p[@class='oxd-userdropdown-name']</welcome>
-</login_detail>	
